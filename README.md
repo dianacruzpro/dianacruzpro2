@@ -1,5 +1,5 @@
-### console.log('Hellow World🏼👋🏼')
-I am a freelancer and web developer, I am a person dedicated to helping other developers increase their technical skills in web design, web development, troubleshooting and more. My main programming languages/platforms are: Azure, PHP and Java.
+### console.log('Hello World! 👋🏼')
+I'm Sara, freelancer and web developer. I am a person dedicated to helping other developers increase their technical skills in web design, web development, troubleshooting and more. My main programming languages/platforms are: Azure, PHP and Java.
 
 <!--
 **SaraVCruz/SaraVCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
