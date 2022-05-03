@@ -1,5 +1,5 @@
 ### console.log('Hello there! 👋🏼')
-I'm Sara, freelancer and web developer. I am a person dedicated to helping other developers increase their technical skills in web design, web development, troubleshooting and more. My main programming languages/platforms are: Azure, PHP and Java.
+I'm Diana, freelancer and web developer. I am a person dedicated to helping other developers increase their technical skills in web design, web development, troubleshooting and more. My main programming languages/platforms are: Azure, PHP and Java.
 
 - 🧠 Skills: Bootstrap / HTML / CSS
 - 📚 I'm currently learning JavaScript.
