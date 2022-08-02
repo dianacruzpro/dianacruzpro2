@@ -12,7 +12,7 @@
 - 💬 Ask me about **HTML5, CSS3, Bootstrap5,and anything about frontend development**
 
 - 📫 How to reach me **saravcruz1501@gmail.com**
-- Check my portfolio here 👉 https://dianavcruz.github.io/Portfolio-DianaCruz/
+- Check my portfolio here 👉 **https://dianavcruz.github.io/DianaCruz-Portfolio/**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
