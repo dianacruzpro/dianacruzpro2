@@ -46,6 +46,9 @@
   <a href="https://www.linkedin.com/in/dianacruzpro/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
+  <a href="https://www.buymeacoffee.com/DianaVCruz" target="_black">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100"/>
+  </a>
  
   ![Snake animation](https://github.com/DianaVCruz/DianaVCruz/blob/output/github-contribution-grid-snake.svg)
  
