@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working on creative and fully responsive websites.
 - 🌱 I’m learning **JavaScript**
-- 🧑💼 See my portfolio 👉 [Diana Cruz](https://dianacruz.pro)
+- 🧑💼 See my portfolio online 👉 [Diana Cruz](https://dianacruz.pro)
 
 <div align="center">
   <a href="https://github.com/dianacruzpro">
