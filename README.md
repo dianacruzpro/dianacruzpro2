@@ -12,7 +12,7 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="right" alt="Diana-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/98240550/184978710-95105ddb-c999-4bf9-bab6-3c2454b32a88.png">
+
 
  <img align="center" alt="android" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/> 
  <img align="center" alt="bootstrap" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
